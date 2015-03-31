@@ -1,0 +1,14 @@
+= Wayback Machine for Firefox
+
+This is a microscopic extension for Firefox, adding a button and a context menu item for interacting with https://archive.org[Archive.org]'s Wayback Machine service.
+
+== Open In Wayback Machine Button
+Clicking on a button opens currently opened page in Wayback Machine. 
+
+It is immensely useful when you open a dead link and is being presented by 404 "Not Found" orno host whatsoever: in such a case you can just click a button and look whether Wayback Machine crawled this link before.
+
+== Wayback Machine Context Menu Item
+
+Any link on the webpage can be opened directly in Wayback Machine.
+It can be useful when you know beforehand that you are going to look at a dead link.
+
