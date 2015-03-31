@@ -1,6 +1,6 @@
 {
-  "name": "wayback-for-firefox",
-  "title": "Wayback Machine for Firefox",
+  "name": "wayback-button",
+  "title": "Open in Wayback Machine",
   "version": "1.0.0",
   "id": "jid1-D3J3CDl5LFaX5A",
   "description": "A button and context menu item to open URL in the Wayback Machine, service to view previous versions of websites from archive.org.",
