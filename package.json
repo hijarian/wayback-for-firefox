@@ -1,0 +1,17 @@
+{
+  "name": "wayback-for-firefox",
+  "title": "wayback-for-firefox",
+  "id": "jid1-D3J3CDl5LFaX5A",
+  "description": "A button and context menu item to open URL in the Wayback Machine, service to view previous versions of websites from archive.org.",
+  "author": "Mark Safronov <hijarian@gmail.com>",
+  "license": "MPL 2.0",
+  "version": "0.1",
+	"preferences": [
+		{
+			"name": "wayback_machine_url",
+			"title": "Wayback Machine URL",
+			"type": "string",
+			"value": "https://web.archive.org/web/*/"
+		}
+	]
+}
