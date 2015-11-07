@@ -4,7 +4,7 @@
 
 self.port.on('init', function (data) {
     document.getElementById('icon').setAttribute('src', data.icon_url);
-    document.getElementById('page-url').textContent = data.page_url;
+    document.getElementById('title').textContent = data.title;
 });
 
 self.port.on('notify', function (data) {
