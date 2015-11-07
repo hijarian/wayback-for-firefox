@@ -1,12 +1,13 @@
 {
   "name": "wayback-button",
   "title": "Open in Wayback Machine",
-  "version": "1.0.0",
-  "id": "jid1-D3J3CDl5LFaX5A",
+  "version": "2.0.0",
+  "id": "jid1-D3J3CDl5LFaX5A@jetpack",
   "description": "A button and context menu item to open URL in the Wayback Machine, service to view previous versions of websites from archive.org.",
-  "author": "Mark Safronov",
+  "author": "Mark Safronov (http://about.me/hijarian) <hijarian@gmail.com>",
 	"homepage": "https://github.com/hijarian/wayback-for-firefox",
-  "license": "MPL 2.0",
+  "license": "MPL-2.0",
+  "main": "./lib/main.js",
 	"preferences": [
 		{
 			"name": "wayback_machine_url",
