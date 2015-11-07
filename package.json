@@ -7,6 +7,7 @@
   "author": "Mark Safronov (http://about.me/hijarian) <hijarian@gmail.com>",
 	"homepage": "https://github.com/hijarian/wayback-for-firefox",
   "license": "MPL-2.0",
+  "permissions": {"private-browsing": true},
   "main": "./lib/main.js",
 	"preferences": [
 		{
