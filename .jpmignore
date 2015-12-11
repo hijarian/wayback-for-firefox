@@ -1,1 +1,9 @@
-support
+.*
+*
+!/data/**
+!/lib/**
+!/locale/**
+!/package.json
+!/icon.png
+!/LICENSE
+!/README.adoc
