@@ -6,16 +6,16 @@
   "description": "A button and context menu item to open URL in the Wayback Machine, service to view previous versions of websites from archive.org.",
   "author": "Mark Safronov (http://about.me/hijarian) <hijarian@gmail.com>",
   "translators": ["kostich (http://github.com/kostich)"],
-	"homepage": "https://github.com/hijarian/wayback-for-firefox",
+  "homepage": "https://github.com/hijarian/wayback-for-firefox",
   "license": "MPL-2.0",
   "permissions": {"private-browsing": true},
   "main": "./lib/main.js",
-	"preferences": [
-		{
-			"name": "wayback_machine_url",
-			"title": "Wayback Machine URL",
-			"type": "string",
-      "value": "http://archive.org/wayback/available?url="
-		}
-	]
+  	"preferences": [
+  		{
+  			"name": "wayback_machine_url",
+  			"title": "Wayback Machine URL",
+  			"type": "string",
+  			"value": "http://archive.org/wayback/available?url="
+  		}
+  	]
 }
